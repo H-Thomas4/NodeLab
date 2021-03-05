@@ -1,0 +1,24 @@
+{
+  "name": "nodelab",
+  "version": "1.0.0",
+  "description": "Learning the Basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H-Thomas4/NodeLab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H-Thomas4/NodeLab/issues"
+  },
+  "homepage": "https://github.com/H-Thomas4/NodeLab#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "save": "^2.4.0"
+  }
+}
